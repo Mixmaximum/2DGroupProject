@@ -9,11 +9,12 @@ public class PlatformerMovement : MonoBehaviour
     float moveSpeed = 5f;
     [SerializeField]
     float jumpSpeed = 2f;
-    bool grounded = false;
+    public bool grounded = false;
     float timer = 0;
     [SerializeField]
     float coyoteTime = 2;
     bool canJump = true;
+    public float moveX;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,8 +24,11 @@ public class PlatformerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Set timer
         timer += Time.deltaTime;
+        //Move X
         float moveX = Input.GetAxis("Horizontal");
+        //Find velocity
         Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
         velocity.x = moveX * moveSpeed;
         GetComponent<Rigidbody2D>().velocity = velocity;
@@ -43,6 +47,7 @@ public class PlatformerMovement : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        //When colliding with the floor we want to ground and be able to jump
         if (collision.gameObject.layer == 6)
         {
             grounded = true;
@@ -52,12 +57,12 @@ public class PlatformerMovement : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        //when we leave the ground reset the timer
+        //when we leave the ground reset the timer and unground ourselves
         if(collision.gameObject.layer == 6)
         {
             timer = 0;
             grounded = false;
-            Debug.Log("Ground Left");
+            Debug.Log("Left Ground");
         }
        
     }

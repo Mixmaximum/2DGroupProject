@@ -21,7 +21,7 @@ public class FallDamage : MonoBehaviour
         Vector2 velocity = rb.velocity;
         float y = velocity.y;
         //GetComponent<Rigidbody2D>().velocity = velocity;
-        Debug.Log(y);
+        
         if (y <= fatalVelocity)
         {
             dead = true;
