@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5857c185beefe964fae2929e4470be82
+guid: 4c9c68a3a4e07274eaafa301a77ec046
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,175 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Platfromslv1_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c3c2345bdbb81742a18773395d9ec92
-      internalID: -1297978072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9eda5a942695f9045b16e82980ac704d
-      internalID: 8102126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35caebe736eeb9e4880f0c0906912f80
-      internalID: 1635358396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96feacdf8a897cd4b983251ff017ebb6
-      internalID: -872173227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 054134f2c3ee69b488a7681dcb7591c9
-      internalID: -346267496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06db186e4e2fbd642a1ded0bcf6f3d1c
-      internalID: -213768606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_6
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac00a6ef0b49fe24cbac788e34c3d0fc
-      internalID: 552321853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91a51daa0125f0b409795724c14efa56
-      internalID: 94555729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_8
+      name: Platfromslv2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -279,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b04b7040b8183f34ea1b71cd947ceb06
-      internalID: 524628507
+      spriteID: ac066b080935fad4eb612f6e0b53edd3
+      internalID: -1162262092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_9
+      name: Platfromslv2_1
       rect:
         serializedVersion: 2
         x: 32
@@ -300,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 041c6d781c6e0854da67d0d25d05ee00
-      internalID: 756373749
+      spriteID: a1c28622580437e408246947d4224b46
+      internalID: -969354974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_10
+      name: Platfromslv2_2
       rect:
         serializedVersion: 2
         x: 64
@@ -321,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dce233a370fa29342b27b51d526226b9
-      internalID: 1004955505
+      spriteID: 7a7b0b476b214c54dbe4423cbee9416a
+      internalID: -1939742161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_11
+      name: Platfromslv2_3
       rect:
         serializedVersion: 2
         x: 96
@@ -342,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867951ecac177f44ebfd8af0975c305b
-      internalID: 1521489325
+      spriteID: 8c016e33eaabddd4793672956656b034
+      internalID: -204863645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_12
+      name: Platfromslv2_4
       rect:
         serializedVersion: 2
         x: 128
@@ -363,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a17f621b14594f344b29bd75e6dd5201
-      internalID: -293261815
+      spriteID: b78ca4253a9acf54d88dfc33278bf4d5
+      internalID: -580197729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_13
+      name: Platfromslv2_5
       rect:
         serializedVersion: 2
         x: 160
@@ -384,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 691d1c1c12876dc4484a3bdeda493095
-      internalID: -1833473946
+      spriteID: f3f9a250eb68f6a408143ccd7e6b74f9
+      internalID: -1798819854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_14
+      name: Platfromslv2_6
       rect:
         serializedVersion: 2
         x: 192
@@ -405,35 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aea1fc16d1c054499712507c84b7c58
-      internalID: 804846303
+      spriteID: 4b51766ba2b24cb4dbb09247ffb4c1e6
+      internalID: 1600854000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_15
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11d4257f018aecf4a9d24ad903c3b4da
-      internalID: -1314407449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_16
+      name: Platfromslv2_7
       rect:
         serializedVersion: 2
         x: 0
@@ -447,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e15ae143f3787aa49aa5d33962af873b
-      internalID: -1931224070
+      spriteID: dc62c8ec791006a4bbcc198c02753e47
+      internalID: 399228057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_17
+      name: Platfromslv2_8
       rect:
         serializedVersion: 2
         x: 32
@@ -468,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c455440ced61ddb418f0c936c3c36d85
-      internalID: 741302371
+      spriteID: 248c9b8cac73c5c409de6230ae2c14a6
+      internalID: 569211946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_18
+      name: Platfromslv2_9
       rect:
         serializedVersion: 2
         x: 64
@@ -489,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 285ae995a4ae1844896a45e150761081
-      internalID: -1498970259
+      spriteID: 4713324d65b66d24ba566946990c906e
+      internalID: -1447422156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_19
+      name: Platfromslv2_10
       rect:
         serializedVersion: 2
         x: 96
@@ -510,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e2028157a9abbd4fab2fbadb284c172
-      internalID: -1685380041
+      spriteID: 45781384a8228224194ffc90a257c71f
+      internalID: 874676497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_20
+      name: Platfromslv2_11
       rect:
         serializedVersion: 2
         x: 128
@@ -531,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d2e4a076b72ec7449cc5dd7e6290413
-      internalID: 128982108
+      spriteID: e27fdf941a610dc4e8a173321e4c0f59
+      internalID: 1081862048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_21
+      name: Platfromslv2_12
       rect:
         serializedVersion: 2
         x: 160
@@ -552,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1603633ed9ef044b98cb5eaa835ef18
-      internalID: -1431862464
+      spriteID: b21a43ae5edaaf54c9dfeb483745b1d2
+      internalID: 1707399861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_22
+      name: Platfromslv2_13
       rect:
         serializedVersion: 2
         x: 192
@@ -573,35 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 323ca6045c10bb840ba1faadbbb7c6b3
-      internalID: 1336532889
+      spriteID: 1f4f77796acce9d4a96b2ae12b67c729
+      internalID: 1413050803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_23
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fcb15bd62b6f9e448bfad0e03294cc2a
-      internalID: -1031221854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_24
+      name: Platfromslv2_14
       rect:
         serializedVersion: 2
         x: 0
@@ -615,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 797549e04279c3646bc1e68eb2826f2e
-      internalID: -7623462
+      spriteID: 08e0e0562b8717e4e9f8a1e169da9d74
+      internalID: -1995474798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_25
+      name: Platfromslv2_15
       rect:
         serializedVersion: 2
         x: 32
@@ -636,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99d76dc6a3d94c343901fe28f156c261
-      internalID: 339939071
+      spriteID: e3ef1d0785393864dba17426eb1ca3f9
+      internalID: 230017057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_26
+      name: Platfromslv2_16
       rect:
         serializedVersion: 2
         x: 64
@@ -657,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e798f53c83a658d4bbf044ad4448d937
-      internalID: 1504600477
+      spriteID: b6babf19cad580a46a357d9373e76d46
+      internalID: -1953277446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_27
+      name: Platfromslv2_17
       rect:
         serializedVersion: 2
         x: 96
@@ -678,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36cbd75ea21176d46a114e9c27b593bf
-      internalID: 716129489
+      spriteID: 4d3c24c61b7016a40913763270f69611
+      internalID: -589522966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_28
+      name: Platfromslv2_18
       rect:
         serializedVersion: 2
         x: 128
@@ -699,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8206ab62ff31a8e4dae0deb811cc70ad
-      internalID: 1740546943
+      spriteID: 9351c2beec657f447b2120b1953882e8
+      internalID: -806173983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_29
+      name: Platfromslv2_19
       rect:
         serializedVersion: 2
         x: 160
@@ -720,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b65055d3624f29c41a609459b812209d
-      internalID: 1455438735
+      spriteID: 1a05830f3c10c3e4799bb352c13b84b6
+      internalID: 1892058001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_30
+      name: Platfromslv2_20
       rect:
         serializedVersion: 2
         x: 192
@@ -741,35 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01df2ad86b51b934696558d07989c292
-      internalID: 1122970063
+      spriteID: 322492f08a553424cb64f726f1b396e6
+      internalID: 1734400524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_31
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05e82b782ac50df4fb1cdf85d848763a
-      internalID: 724632380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_32
+      name: Platfromslv2_21
       rect:
         serializedVersion: 2
         x: 0
@@ -783,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e48e3f01606aeac44b7136af027b623d
-      internalID: -1596700012
+      spriteID: 66fe7bfdcb8b16e46b3e02db457e4a1a
+      internalID: 2017726072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_33
+      name: Platfromslv2_22
       rect:
         serializedVersion: 2
         x: 32
@@ -804,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7c1e70d512bf3a4888956604670fc58
-      internalID: -28086390
+      spriteID: c9ae0f83427c531488199fb562be1639
+      internalID: -248722426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_34
+      name: Platfromslv2_23
       rect:
         serializedVersion: 2
         x: 64
@@ -825,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11b495bfbc0383a4993a3c4e58bd1e56
-      internalID: 1209850718
+      spriteID: 867a4b247f904d343a8e2aa20179ba83
+      internalID: -493458624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_35
+      name: Platfromslv2_24
       rect:
         serializedVersion: 2
         x: 96
@@ -846,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db39c0cd75781e7438ea335de52771df
-      internalID: -2049693649
+      spriteID: d4d7e8a5686ec30409acd0e109bb1798
+      internalID: -1046070649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_36
+      name: Platfromslv2_25
       rect:
         serializedVersion: 2
         x: 128
@@ -867,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dbe2a7395e54994c9f728be1de1bbcd
-      internalID: -775151572
+      spriteID: 438edbd2cc7d28a4bb4d97b826cc6aa1
+      internalID: -265624395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_37
+      name: Platfromslv2_26
       rect:
         serializedVersion: 2
         x: 160
@@ -888,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07f5bc8209091a441898595dada2b3e4
-      internalID: -1284263433
+      spriteID: b1b1a68ea84db924ca556bce38c48726
+      internalID: 616185690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_38
+      name: Platfromslv2_27
       rect:
         serializedVersion: 2
         x: 192
@@ -909,35 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89b85abea39570244890dccbbd98e674
-      internalID: -2003273123
+      spriteID: 3ba32218cbff4bf4e9958e6effd70e39
+      internalID: -1616113918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_39
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae28d5e0345bcf24d808185b36666f1f
-      internalID: -1133917757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_40
+      name: Platfromslv2_28
       rect:
         serializedVersion: 2
         x: 0
@@ -951,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6adb65be779b4b44a22ade5952bd733
-      internalID: -1863563268
+      spriteID: 69e2da22bb11b65498db3eab4655db0d
+      internalID: 646857132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_41
+      name: Platfromslv2_29
       rect:
         serializedVersion: 2
         x: 32
@@ -972,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05a4ad133cf233a4b9c52916148565c5
-      internalID: -234423555
+      spriteID: 51e90fe4a886acc49b831d402dce9791
+      internalID: 962590204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_42
+      name: Platfromslv2_30
       rect:
         serializedVersion: 2
         x: 64
@@ -993,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77993cce0258d424bb9e19d921019009
-      internalID: 412949910
+      spriteID: 3e8f8fdcd06296349af67bf8627b56ed
+      internalID: -555187319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_43
+      name: Platfromslv2_31
       rect:
         serializedVersion: 2
         x: 96
@@ -1014,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e284290563f9ce4c8ff091d33d7ad97
-      internalID: -531678286
+      spriteID: 8b22c8bbd6aad1f4f91c82798a666add
+      internalID: 68127102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_44
+      name: Platfromslv2_32
       rect:
         serializedVersion: 2
         x: 128
@@ -1035,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 423d2c11f38296f468ea928511604e0e
-      internalID: -1989432508
+      spriteID: fd1ea6cdb7129244a88be79b0442a6ce
+      internalID: -755762598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_45
+      name: Platfromslv2_33
       rect:
         serializedVersion: 2
         x: 160
@@ -1056,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 097f346923bb4a04dadbcbc6d603b03d
-      internalID: -446444666
+      spriteID: 614ca3eda211a1447b418d9fa55379ab
+      internalID: 729277741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_46
+      name: Platfromslv2_34
       rect:
         serializedVersion: 2
         x: 192
@@ -1077,35 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fe61b039d1b244459d9af5691092537
-      internalID: -1736370338
+      spriteID: 08f03f2d68b4a0f44b3d38b1432e9ce8
+      internalID: 479170950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_47
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f893ea13174e7f43b4650f0bad4adc6
-      internalID: -1590526297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_48
+      name: Platfromslv2_35
       rect:
         serializedVersion: 2
         x: 0
@@ -1119,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdd32ca52dde8114baaa0e0190f798ac
-      internalID: -776560665
+      spriteID: 5ab7471c25a4e0646bcff9ec309a3ed7
+      internalID: 1175379246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_49
+      name: Platfromslv2_36
       rect:
         serializedVersion: 2
         x: 32
@@ -1140,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82a054d97bce0504997516cbf87b8572
-      internalID: 1471981869
+      spriteID: 7b075c2b1f396784091926bce0c2e57c
+      internalID: -1822884876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_50
+      name: Platfromslv2_37
       rect:
         serializedVersion: 2
         x: 64
@@ -1161,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a99657b00fb052f4dbf1d472fc79f0c3
-      internalID: 935486996
+      spriteID: 0dd96d97f8bb97a40b70831772d00185
+      internalID: -1861137696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_51
+      name: Platfromslv2_38
       rect:
         serializedVersion: 2
         x: 96
@@ -1182,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8569a16566171e54391c0c3727a9512e
-      internalID: 1010926307
+      spriteID: 0e55cf2c31c2f5545a78f692ab9ac606
+      internalID: 1890845168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_52
+      name: Platfromslv2_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1203,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31a7c76718d717d46b0742e5e81fcb26
-      internalID: -1742983002
+      spriteID: 9b555332e364e204aadb4bd08f190a3f
+      internalID: -162254135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_53
+      name: Platfromslv2_40
       rect:
         serializedVersion: 2
         x: 160
@@ -1224,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56bea135379da824694c1130658c5354
-      internalID: -1857764262
+      spriteID: 2b5d19b8f2ca298419424039103ebefb
+      internalID: 560485681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_54
+      name: Platfromslv2_41
       rect:
         serializedVersion: 2
         x: 192
@@ -1245,35 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cd3dbae3ca121341b0d0f7c172f976d
-      internalID: 1828108949
+      spriteID: 14ea35d701d6cb04c8e55f6da11a1a8f
+      internalID: -1081490389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_55
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4eca503385ac9dc46b9096fc6fe593c2
-      internalID: -1195958764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_56
+      name: Platfromslv2_42
       rect:
         serializedVersion: 2
         x: 0
@@ -1287,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba44248447fcfb842b6204e0e71d97f2
-      internalID: -478980041
+      spriteID: a1c7725d89337c94991e2635fe3c6d41
+      internalID: -590755984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_57
+      name: Platfromslv2_43
       rect:
         serializedVersion: 2
         x: 32
@@ -1308,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a958dc1806d4274f93bb61f50be2f21
-      internalID: 1925405486
+      spriteID: 081a35ac59fbf134192b8f15bf55ee4e
+      internalID: 1456415739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Platfromslv1_58
+      name: Platfromslv2_44
       rect:
         serializedVersion: 2
         x: 64
@@ -1329,92 +1035,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3e699a870449c741af0b68dc7887acc
-      internalID: 155741319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_59
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cde9035db18bad24a9db13ea1aea2e23
-      internalID: 2130026428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_60
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0c0a46cfe9dbd64592d6dbcb2156a34
-      internalID: 492918234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_61
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75595ab569db3ef439ac5fee6e365c17
-      internalID: -440114140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Platfromslv1_62
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 310830a1fd5081f49898f38f68c54ce9
-      internalID: 680029707
+      spriteID: bf077f474e829304eaca4a1491b84f97
+      internalID: 1475092708
       vertices: []
       indices: 
       edges: []
@@ -1430,69 +1052,51 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Platfromslv1_0: -1297978072
-      Platfromslv1_1: 8102126
-      Platfromslv1_10: 1004955505
-      Platfromslv1_11: 1521489325
-      Platfromslv1_12: -293261815
-      Platfromslv1_13: -1833473946
-      Platfromslv1_14: 804846303
-      Platfromslv1_15: -1314407449
-      Platfromslv1_16: -1931224070
-      Platfromslv1_17: 741302371
-      Platfromslv1_18: -1498970259
-      Platfromslv1_19: -1685380041
-      Platfromslv1_2: 1635358396
-      Platfromslv1_20: 128982108
-      Platfromslv1_21: -1431862464
-      Platfromslv1_22: 1336532889
-      Platfromslv1_23: -1031221854
-      Platfromslv1_24: -7623462
-      Platfromslv1_25: 339939071
-      Platfromslv1_26: 1504600477
-      Platfromslv1_27: 716129489
-      Platfromslv1_28: 1740546943
-      Platfromslv1_29: 1455438735
-      Platfromslv1_3: -872173227
-      Platfromslv1_30: 1122970063
-      Platfromslv1_31: 724632380
-      Platfromslv1_32: -1596700012
-      Platfromslv1_33: -28086390
-      Platfromslv1_34: 1209850718
-      Platfromslv1_35: -2049693649
-      Platfromslv1_36: -775151572
-      Platfromslv1_37: -1284263433
-      Platfromslv1_38: -2003273123
-      Platfromslv1_39: -1133917757
-      Platfromslv1_4: -346267496
-      Platfromslv1_40: -1863563268
-      Platfromslv1_41: -234423555
-      Platfromslv1_42: 412949910
-      Platfromslv1_43: -531678286
-      Platfromslv1_44: -1989432508
-      Platfromslv1_45: -446444666
-      Platfromslv1_46: -1736370338
-      Platfromslv1_47: -1590526297
-      Platfromslv1_48: -776560665
-      Platfromslv1_49: 1471981869
-      Platfromslv1_5: -213768606
-      Platfromslv1_50: 935486996
-      Platfromslv1_51: 1010926307
-      Platfromslv1_52: -1742983002
-      Platfromslv1_53: -1857764262
-      Platfromslv1_54: 1828108949
-      Platfromslv1_55: -1195958764
-      Platfromslv1_56: -478980041
-      Platfromslv1_57: 1925405486
-      Platfromslv1_58: 155741319
-      Platfromslv1_59: 2130026428
-      Platfromslv1_6: 552321853
-      Platfromslv1_60: 492918234
-      Platfromslv1_61: -440114140
-      Platfromslv1_62: 680029707
-      Platfromslv1_7: 94555729
-      Platfromslv1_8: 524628507
-      Platfromslv1_9: 756373749
+      Platfromslv2_0: -1162262092
+      Platfromslv2_1: -969354974
+      Platfromslv2_10: 874676497
+      Platfromslv2_11: 1081862048
+      Platfromslv2_12: 1707399861
+      Platfromslv2_13: 1413050803
+      Platfromslv2_14: -1995474798
+      Platfromslv2_15: 230017057
+      Platfromslv2_16: -1953277446
+      Platfromslv2_17: -589522966
+      Platfromslv2_18: -806173983
+      Platfromslv2_19: 1892058001
+      Platfromslv2_2: -1939742161
+      Platfromslv2_20: 1734400524
+      Platfromslv2_21: 2017726072
+      Platfromslv2_22: -248722426
+      Platfromslv2_23: -493458624
+      Platfromslv2_24: -1046070649
+      Platfromslv2_25: -265624395
+      Platfromslv2_26: 616185690
+      Platfromslv2_27: -1616113918
+      Platfromslv2_28: 646857132
+      Platfromslv2_29: 962590204
+      Platfromslv2_3: -204863645
+      Platfromslv2_30: -555187319
+      Platfromslv2_31: 68127102
+      Platfromslv2_32: -755762598
+      Platfromslv2_33: 729277741
+      Platfromslv2_34: 479170950
+      Platfromslv2_35: 1175379246
+      Platfromslv2_36: -1822884876
+      Platfromslv2_37: -1861137696
+      Platfromslv2_38: 1890845168
+      Platfromslv2_39: -162254135
+      Platfromslv2_4: -580197729
+      Platfromslv2_40: 560485681
+      Platfromslv2_41: -1081490389
+      Platfromslv2_42: -590755984
+      Platfromslv2_43: 1456415739
+      Platfromslv2_44: 1475092708
+      Platfromslv2_5: -1798819854
+      Platfromslv2_6: 1600854000
+      Platfromslv2_7: 399228057
+      Platfromslv2_8: 569211946
+      Platfromslv2_9: -1447422156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
