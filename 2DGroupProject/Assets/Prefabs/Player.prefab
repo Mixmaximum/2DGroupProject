@@ -152,7 +152,7 @@ GameObject:
   - component: {fileID: 6231952064208772054}
   - component: {fileID: 3448197678678837267}
   - component: {fileID: 5514964685432424133}
-  - component: {fileID: 904144992780062854}
+  - component: {fileID: 4601854054002800565}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -312,8 +312,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d222976229495484b81906858032d78a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpSpeed: 2
+  moveSpeed: 6
+  jumpSpeed: 3
   grounded: 0
   coyoteTime: 0.1
   moveX: 0
@@ -375,7 +375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fatalVelocity: -20
---- !u!114 &904144992780062854
+--- !u!114 &4601854054002800565
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -384,7 +384,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8256375507591412309}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfe81b89bba96414ca6cb7a8dbcb7e9a, type: 3}
+  m_Script: {fileID: 11500000, guid: d07a22b518f784546bc69d4f08f8e7e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  cm: {fileID: 0}

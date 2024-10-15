@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class FallDamage : MonoBehaviour
 {
+    public GameObject player;
+    public GameObject respawnPoint;
     [SerializeField]
     float fatalVelocity = 1;
     Rigidbody2D rb;
@@ -34,8 +36,8 @@ public class FallDamage : MonoBehaviour
             
             if(dead)
             {
-                Scene scene = SceneManager.GetActiveScene();
-                SceneManager.LoadScene(scene.name);
+                player.transform.position = respawnPoint.transform.position;
+                dead = false;
             }
         }
     }

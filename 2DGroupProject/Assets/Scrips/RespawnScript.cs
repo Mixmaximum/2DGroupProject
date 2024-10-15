@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Collectable : MonoBehaviour
+public class RespawnScript : MonoBehaviour
 {
-    public CoinManager cm;
+    public GameObject player;
+    public GameObject respawnPoint;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,10 +19,9 @@ public class Collectable : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Collectable"))
+        if(other.gameObject.CompareTag("Player"))
         {
-            Destroy(other.gameObject);
-            cm.coinCount++;
+            player.transform.position = respawnPoint.transform.position;
         }
     }
 }
