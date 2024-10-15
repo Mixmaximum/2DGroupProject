@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 708727535889002033}
   - component: {fileID: 7830676028297026741}
   - component: {fileID: 5729436463348015612}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Mountain Bar
   m_TagString: Collectable
   m_Icon: {fileID: 0}
