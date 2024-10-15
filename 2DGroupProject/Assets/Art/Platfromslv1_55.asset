@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Platfromslv1_55
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_Sprite: {fileID: -1195958764, guid: 5857c185beefe964fae2929e4470be82, type: 3}
+=======
+  m_Sprite: {fileID: 105453812, guid: 5857c185beefe964fae2929e4470be82, type: 3}
+>>>>>>> 4844a8710a4ea1b06f1a98b0e915e7b6e79264b9
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
