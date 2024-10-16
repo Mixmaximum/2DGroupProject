@@ -15,10 +15,15 @@ public class PlatformerMovement : MonoBehaviour
     float coyoteTime = 2;
     bool canJump = true;
     public float moveX;
+    float startGrav;
+    Rigidbody2D rb;
+    [SerializeField]
+    float maxJumpHeight;
     // Start is called before the first frame update
     void Start()
-    {
-        
+    { //Reference the rigidbody and learn the starting gravity
+        rb = GetComponent<Rigidbody2D>();
+        startGrav = rb.GetComponent<Rigidbody2D>().gravityScale;
     }
 
     // Update is called once per frame
@@ -29,9 +34,9 @@ public class PlatformerMovement : MonoBehaviour
         //Move X
         float moveX = Input.GetAxis("Horizontal");
         //Find velocity
-        Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
+        Vector2 velocity = rb.velocity;
         velocity.x = moveX * moveSpeed;
-        GetComponent<Rigidbody2D>().velocity = velocity;
+        rb.velocity = velocity;
         //coyote Time changing grounded
         if(timer > coyoteTime && !grounded)
         {
@@ -40,9 +45,14 @@ public class PlatformerMovement : MonoBehaviour
         //need to find a way to know if we are on the ground
         if (Input.GetButtonDown("Jump") && canJump)
         {
-            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 100 * jumpSpeed));
+            rb.gravityScale = maxJumpHeight;
+            rb.AddForce(new Vector2(0, 100 * jumpSpeed));
             grounded = false;
             canJump = false;
+        }
+        if(Input.GetButtonUp ("Jump"))
+        {
+            rb.gravityScale = startGrav;
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
