@@ -1797,6 +1797,10 @@ PrefabInstance:
       propertyPath: m_ExcludeLayers.m_Bits
       value: 128
       objectReference: {fileID: 0}
+    - target: {fileID: 3903212882820212014, guid: a73d6e78c7174d34ab4b90e42071b09a, type: 3}
+      propertyPath: m_GravityScale
+      value: 2.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4601854054002800565, guid: a73d6e78c7174d34ab4b90e42071b09a, type: 3}
       propertyPath: cm
       value: 
@@ -1809,6 +1813,10 @@ PrefabInstance:
       propertyPath: respawnPoint
       value: 
       objectReference: {fileID: 1732214466}
+    - target: {fileID: 6231952064208772054, guid: a73d6e78c7174d34ab4b90e42071b09a, type: 3}
+      propertyPath: maxJumpHeight
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8256375507591412309, guid: a73d6e78c7174d34ab4b90e42071b09a, type: 3}
       propertyPath: m_Name
       value: Player
@@ -1984,10 +1992,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pause Menu
       objectReference: {fileID: 0}
-    - target: {fileID: 3959115307664319834, guid: 87db7371cc3d9234c84070ab4061e150, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5019456841821378438, guid: 87db7371cc3d9234c84070ab4061e150, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -2066,14 +2070,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5019456841821378438, guid: 87db7371cc3d9234c84070ab4061e150, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684339602307699775, guid: 87db7371cc3d9234c84070ab4061e150, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -4.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 8949302907610282813, guid: 87db7371cc3d9234c84070ab4061e150, type: 3}
-      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
