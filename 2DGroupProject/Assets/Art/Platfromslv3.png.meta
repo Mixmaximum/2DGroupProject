@@ -1,0 +1,1871 @@
+fileFormatVersion: 2
+guid: f3381299ff3f8c0418b62431694ba6f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platfromslv3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 11, y: -4}
+        - {x: 11, y: -1}
+        - {x: 12, y: -1}
+        - {x: 12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 4}
+        - {x: 13, y: 4}
+        - {x: 11, y: 4}
+        - {x: -10, y: 4}
+        - {x: -14, y: 4}
+        - {x: -15, y: 4}
+        - {x: -15, y: -1}
+        - {x: -14, y: -1}
+        - {x: -14, y: -2}
+        - {x: -12, y: -2}
+        - {x: -12, y: -4}
+        - {x: -11, y: -4}
+        - {x: -11, y: -5}
+        - {x: -10, y: -5}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -5}
+        - {x: -2, y: -5}
+        - {x: -2, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -5}
+        - {x: 1, y: -5}
+        - {x: 1, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -6}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f421b9ff8af8d464eb14a01e40a29da4
+      internalID: 1422745689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 11, y: -4}
+        - {x: 11, y: -1}
+        - {x: 12, y: -1}
+        - {x: 12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 4}
+        - {x: -16, y: 4}
+        - {x: -16, y: -1}
+        - {x: -14, y: -1}
+        - {x: -14, y: -2}
+        - {x: -12, y: -2}
+        - {x: -12, y: -4}
+        - {x: -11, y: -4}
+        - {x: -11, y: -5}
+        - {x: -10, y: -5}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -5}
+        - {x: -2, y: -5}
+        - {x: -2, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -5}
+        - {x: 1, y: -5}
+        - {x: 1, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -6}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1a8c5811c291c81428f5a7c742ef9ee9
+      internalID: 19967719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -5}
+        - {x: 0, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -5}
+        - {x: 3, y: -5}
+        - {x: 3, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -5}
+        - {x: 9, y: -5}
+        - {x: 9, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -5}
+        - {x: 11, y: -5}
+        - {x: 11, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: -2}
+        - {x: 14, y: -2}
+        - {x: 14, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: 4}
+        - {x: -16, y: 4}
+        - {x: -16, y: 1}
+        - {x: -13, y: 1}
+        - {x: -13, y: 0}
+        - {x: -12, y: 0}
+        - {x: -12, y: -1}
+        - {x: -11, y: -1}
+        - {x: -11, y: -4}
+        - {x: -10, y: -4}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: -3}
+        - {x: -7, y: -3}
+        - {x: -7, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -8}
+        - {x: -2, y: -8}
+        - {x: -2, y: -6}
+        - {x: -1, y: -6}
+        - {x: -1, y: -5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bb21aa56884fab94b9c7807d011e2502
+      internalID: -1193614656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 0}
+        - {x: -16, y: 1}
+        - {x: -7, y: 1}
+        - {x: -7, y: 0}
+      - - {x: -1, y: 0}
+        - {x: -1, y: 1}
+        - {x: 2, y: 1}
+        - {x: 2, y: 0}
+      - - {x: 9, y: 0}
+        - {x: 9, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 0}
+      - - {x: -6, y: -6}
+        - {x: -6, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -2}
+        - {x: -8, y: -2}
+        - {x: -8, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: -2}
+        - {x: -4, y: -2}
+        - {x: -4, y: -3}
+        - {x: -5, y: -3}
+        - {x: -5, y: -6}
+      - - {x: 1, y: -7}
+        - {x: 1, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -1}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 2, y: -3}
+        - {x: 2, y: -7}
+      - - {x: 6, y: -4}
+        - {x: 6, y: -2}
+        - {x: 5, y: -2}
+        - {x: 5, y: -1}
+        - {x: 8, y: -1}
+        - {x: 8, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3f988229cd4a439d75cde826e9129
+      internalID: 753614329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -6}
+        - {x: 4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -1}
+        - {x: 6, y: -1}
+        - {x: 6, y: -3}
+        - {x: 5, y: -3}
+        - {x: 5, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624973a6ae9fc549bf79807825597a6
+      internalID: -1859358143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 0}
+        - {x: 3, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc52773000064d54b81d48183ef165b9
+      internalID: 1059340709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 0}
+        - {x: -16, y: 1}
+        - {x: -3, y: 1}
+        - {x: -3, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e371c3e5c7694eb1088d1a13ce07c
+      internalID: 806657509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -1}
+        - {x: -6, y: -3}
+        - {x: -5, y: -3}
+        - {x: -5, y: -6}
+        - {x: -4, y: -6}
+        - {x: -4, y: -4}
+        - {x: -3, y: -4}
+        - {x: -3, y: -1}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 050631a32b359ad4b80045324cbd0d1a
+      internalID: 1249567673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -16}
+        - {x: 3, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf90847035d2db4b85b565fe1c81203
+      internalID: 126110988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 0}
+        - {x: -13, y: 1}
+        - {x: 2, y: 1}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56beff90632987469a71aabdba49f5e
+      internalID: -1343294902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -16}
+        - {x: 3, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: 1}
+        - {x: 3, y: 1}
+        - {x: 3, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7a62fb9d1f0504c9bb4155388fa673
+      internalID: -989935747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 0}
+        - {x: -2, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f48bd83220c8c49a645b3e02450b09
+      internalID: 1244353486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -3, y: 16}
+        - {x: -3, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931cd911ad11bf4458cc87b86d7163b9
+      internalID: 1862831592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -3, y: 16}
+        - {x: -3, y: 1}
+        - {x: -4, y: 1}
+        - {x: -4, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a478399182e6e44f8674b9e4524e5c8
+      internalID: 986674137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: -3, y: 16}
+        - {x: -3, y: 4}
+        - {x: -3, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: 0}
+        - {x: 1, y: 0}
+        - {x: 1, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e97f7094a0b343bf57340513397de
+      internalID: -1131921928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 4}
+        - {x: -11, y: 3}
+        - {x: -10, y: 3}
+        - {x: -10, y: 2}
+        - {x: -3, y: 2}
+        - {x: -3, y: 3}
+        - {x: 2, y: 3}
+        - {x: 2, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: 3}
+        - {x: 6, y: 3}
+        - {x: 6, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: -15, y: 1}
+        - {x: -15, y: 2}
+        - {x: -14, y: 2}
+        - {x: -14, y: 4}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5073f882ec1182649a889262a5806529
+      internalID: -188194632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -8}
+        - {x: -3, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: 1}
+        - {x: -3, y: 1}
+        - {x: -3, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2, y: 5}
+        - {x: 3, y: 5}
+        - {x: 3, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: -13}
+        - {x: -2, y: -13}
+        - {x: -2, y: -8}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3a5dd3e172ce64d4fb8a1622a054a20a
+      internalID: 1360477401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 3}
+        - {x: -6, y: 3}
+        - {x: -6, y: 4}
+        - {x: -3, y: 4}
+        - {x: -3, y: 5}
+        - {x: -2, y: 5}
+        - {x: -2, y: 4}
+        - {x: 3, y: 4}
+        - {x: 3, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -13}
+        - {x: 3, y: -13}
+        - {x: 3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0c18c3a1adc7c2643a9bccf2a95fb7ab
+      internalID: -1613047513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: 2, y: 4}
+        - {x: 2, y: 5}
+        - {x: 3, y: 5}
+        - {x: 3, y: 4}
+        - {x: 6, y: 4}
+        - {x: 6, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: -15, y: 2}
+        - {x: -15, y: 4}
+        - {x: -14, y: 4}
+        - {x: -14, y: 5}
+        - {x: -12, y: 5}
+        - {x: -12, y: 6}
+        - {x: -11, y: 6}
+        - {x: -11, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 3}
+        - {x: -2, y: 3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0fd51b428bfcb294bbd5d8e7cd3bd02f
+      internalID: 63499883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 0}
+        - {x: -5, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: 0}
+        - {x: -3, y: 0}
+        - {x: -3, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 4}
+        - {x: 0, y: 4}
+        - {x: 0, y: 3}
+        - {x: 1, y: 3}
+        - {x: 1, y: 2}
+        - {x: 2, y: 2}
+        - {x: 2, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 5, y: -1}
+        - {x: 5, y: 1}
+        - {x: 6, y: 1}
+        - {x: 6, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 1}
+        - {x: 11, y: 1}
+        - {x: 11, y: -3}
+        - {x: 12, y: -3}
+        - {x: 12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -15, y: -1}
+        - {x: -15, y: 2}
+        - {x: -14, y: 2}
+        - {x: -14, y: 4}
+        - {x: -13, y: 4}
+        - {x: -13, y: 5}
+        - {x: -11, y: 5}
+        - {x: -11, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: 2}
+        - {x: -7, y: 2}
+        - {x: -7, y: 1}
+        - {x: -6, y: 1}
+        - {x: -6, y: 0}
+      tessellationDetail: 1
+      bones: []
+      spriteID: adc74db14312ce044b99579af5dfe0fb
+      internalID: -1855188275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: 2}
+        - {x: -7, y: 2}
+        - {x: -7, y: 1}
+        - {x: -6, y: 1}
+        - {x: -6, y: 0}
+        - {x: -5, y: 0}
+        - {x: -5, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: 0}
+        - {x: -3, y: 0}
+        - {x: -3, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 4}
+        - {x: 0, y: 4}
+        - {x: 0, y: 3}
+        - {x: 1, y: 3}
+        - {x: 1, y: 2}
+        - {x: 6, y: 2}
+        - {x: 6, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 1}
+        - {x: 11, y: 1}
+        - {x: 11, y: -3}
+        - {x: 12, y: -3}
+        - {x: 12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -15, y: -1}
+        - {x: -15, y: 2}
+        - {x: -14, y: 2}
+        - {x: -14, y: 4}
+        - {x: -13, y: 4}
+        - {x: -13, y: 5}
+        - {x: -11, y: 5}
+        - {x: -11, y: 4}
+        - {x: -10, y: 3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1751ee6fa82be674aa20c6b1dbe696a0
+      internalID: -2003550256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -16}
+        - {x: 6, y: -15}
+        - {x: 5, y: -15}
+        - {x: 5, y: -14}
+        - {x: 4, y: -14}
+        - {x: 4, y: -11}
+        - {x: 3, y: -11}
+        - {x: 3, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db29d084f5c987408eb87c344cdb0cb
+      internalID: -433292929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: -11}
+        - {x: -4, y: -11}
+        - {x: -4, y: -14}
+        - {x: -5, y: -14}
+        - {x: -5, y: -15}
+        - {x: -6, y: -15}
+        - {x: -6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa90a05e63dc7fe41943c3e2b2fc9d48
+      internalID: -1099091861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -1}
+        - {x: 0, y: -1}
+        - {x: 0, y: 0}
+        - {x: 2, y: 0}
+        - {x: 2, y: 1}
+        - {x: 2, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 11}
+        - {x: 6, y: 11}
+        - {x: 6, y: 12}
+        - {x: 8, y: 12}
+        - {x: 8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 10, y: 14}
+        - {x: 12, y: 14}
+        - {x: 12, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d736f4d6d489ce45ba80d9880922d8d
+      internalID: -1922593871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 15}
+        - {x: -12, y: 15}
+        - {x: -12, y: 14}
+        - {x: -10, y: 14}
+        - {x: -10, y: 13}
+        - {x: -8, y: 13}
+        - {x: -8, y: 12}
+        - {x: -6, y: 12}
+        - {x: -6, y: 11}
+        - {x: -4, y: 11}
+        - {x: -4, y: 4}
+        - {x: -3, y: 4}
+        - {x: -3, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: 1}
+        - {x: -1, y: 1}
+        - {x: -1, y: 0}
+        - {x: 1, y: 0}
+        - {x: 1, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36adb2af53e80ee4f8e8ab84ecd57792
+      internalID: 1686655119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -2}
+        - {x: 10, y: -2}
+        - {x: 10, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -12}
+        - {x: 3, y: -12}
+        - {x: 3, y: -14}
+        - {x: 2, y: -14}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -1}
+        - {x: 12, y: -1}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2abba8e5e0454fd4f8044f7cd2ffe00a
+      internalID: 151949186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -1}
+        - {x: -16, y: -1}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -14}
+        - {x: -3, y: -14}
+        - {x: -3, y: -12}
+        - {x: -4, y: -12}
+        - {x: -4, y: -5}
+        - {x: -6, y: -5}
+        - {x: -6, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: -3}
+        - {x: -10, y: -3}
+        - {x: -10, y: -2}
+        - {x: -12, y: -2}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c916a1c8ed95e6d4ca71dce30647d7d6
+      internalID: -856843890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f4858d57edd7439c50b56e6854b8a
+      internalID: -479676203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14986b4bd9b724990a19ee1eb9c8fc
+      internalID: -367831172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38299cf1f5066de468e9abd08ed515ed
+      internalID: -1431249938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895edbf28c4e57448ba047d063f86d44
+      internalID: -87134114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 0}
+        - {x: -16, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf5bdd4bd2b42438eada1f285a924a
+      internalID: -1333080836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -16, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9205f552ecb4fb40a0d3c36f95b9457
+      internalID: 944504954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -10}
+        - {x: 12, y: -4}
+        - {x: 11, y: -4}
+        - {x: 11, y: -2}
+        - {x: 14, y: -2}
+        - {x: 14, y: -5}
+        - {x: 13, y: -5}
+        - {x: 13, y: -10}
+      - - {x: 2, y: -9}
+        - {x: 2, y: -6}
+        - {x: 1, y: -6}
+        - {x: 1, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -2}
+        - {x: 5, y: -2}
+        - {x: 5, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: -5}
+        - {x: 3, y: -5}
+        - {x: 3, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d5385701fa504faffcd63c6bce3ee
+      internalID: -1200641756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -2}
+        - {x: 4, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: -2}
+      - - {x: -16, y: -2}
+        - {x: -16, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7a2ebf4169fd40aef6ceb2b4fbad0
+      internalID: -1765152103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -13}
+        - {x: -13, y: -8}
+        - {x: -12, y: -8}
+        - {x: -12, y: -6}
+        - {x: -13, y: -6}
+        - {x: -13, y: -2}
+        - {x: -10, y: -2}
+        - {x: -10, y: -8}
+        - {x: -11, y: -8}
+        - {x: -11, y: -10}
+        - {x: -12, y: -10}
+        - {x: -12, y: -13}
+      - - {x: -3, y: -10}
+        - {x: -4, y: -10}
+        - {x: -4, y: -5}
+        - {x: -5, y: -5}
+        - {x: -5, y: -2}
+        - {x: -2, y: -2}
+        - {x: -2, y: -7}
+        - {x: -3, y: -7}
+      - - {x: 7, y: -4}
+        - {x: 7, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f98a4621381704995b08cf07174007
+      internalID: 2037676405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -2}
+        - {x: 3, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: -2}
+      - - {x: -16, y: -2}
+        - {x: -16, y: -1}
+        - {x: -4, y: -1}
+        - {x: -4, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abafcfd858643c4bb413662093f32c6
+      internalID: -215596993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -10}
+        - {x: -13, y: -5}
+        - {x: -14, y: -5}
+        - {x: -14, y: -2}
+        - {x: -11, y: -2}
+        - {x: -11, y: -4}
+        - {x: -12, y: -4}
+        - {x: -12, y: -10}
+      - - {x: -1, y: -4}
+        - {x: -1, y: -6}
+        - {x: -2, y: -6}
+        - {x: -2, y: -9}
+        - {x: -3, y: -9}
+        - {x: -3, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -3}
+        - {x: -5, y: -3}
+        - {x: -5, y: -2}
+        - {x: 0, y: -2}
+        - {x: 0, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ebd70b4e68b445af72418de43b979
+      internalID: 1604739453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 0}
+        - {x: -16, y: 1}
+        - {x: -15, y: 1}
+        - {x: -15, y: 2}
+        - {x: -12, y: 2}
+        - {x: -12, y: 3}
+        - {x: -11, y: 3}
+        - {x: -11, y: 4}
+        - {x: -10, y: 4}
+        - {x: -10, y: 6}
+        - {x: -9, y: 6}
+        - {x: -9, y: 9}
+        - {x: -8, y: 9}
+        - {x: -8, y: 12}
+        - {x: -7, y: 12}
+        - {x: -7, y: 14}
+        - {x: -6, y: 14}
+        - {x: -6, y: 16}
+        - {x: 6, y: 16}
+        - {x: 6, y: 14}
+        - {x: 7, y: 14}
+        - {x: 7, y: 12}
+        - {x: 8, y: 12}
+        - {x: 8, y: 9}
+        - {x: 9, y: 9}
+        - {x: 9, y: 6}
+        - {x: 10, y: 6}
+        - {x: 10, y: 4}
+        - {x: 11, y: 4}
+        - {x: 11, y: 3}
+        - {x: 12, y: 3}
+        - {x: 12, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958fbb4b2f1549647a0afec9bb622514
+      internalID: -1201525241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63af7980ca44ee846bcd583ff36f8908
+      internalID: 1659749523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7d275d4d65c546960fa1332cc4911
+      internalID: 1446956351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv3_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -16}
+        - {x: 11, y: -15}
+        - {x: 9, y: -15}
+        - {x: 9, y: -14}
+        - {x: 6, y: -14}
+        - {x: 6, y: -16}
+        - {x: -6, y: -16}
+        - {x: -6, y: -13}
+        - {x: -7, y: -13}
+        - {x: -7, y: -14}
+        - {x: -8, y: -14}
+        - {x: -8, y: -15}
+        - {x: -10, y: -15}
+        - {x: -10, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: -14}
+        - {x: -15, y: -14}
+        - {x: -15, y: -13}
+        - {x: -13, y: -13}
+        - {x: -13, y: -12}
+        - {x: -12, y: -12}
+        - {x: -12, y: -11}
+        - {x: -11, y: -11}
+        - {x: -11, y: -10}
+        - {x: -10, y: -10}
+        - {x: -10, y: -8}
+        - {x: -11, y: -8}
+        - {x: -11, y: -9}
+        - {x: -13, y: -9}
+        - {x: -13, y: -10}
+        - {x: -14, y: -10}
+        - {x: -14, y: -11}
+        - {x: -16, y: -11}
+        - {x: -16, y: -8}
+        - {x: -15, y: -8}
+        - {x: -15, y: -7}
+        - {x: -14, y: -7}
+        - {x: -14, y: -6}
+        - {x: -13, y: -6}
+        - {x: -13, y: -5}
+        - {x: -12, y: -5}
+        - {x: -12, y: -4}
+        - {x: -14, y: -4}
+        - {x: -14, y: -5}
+        - {x: -16, y: -5}
+        - {x: -16, y: -3}
+        - {x: -15, y: -3}
+        - {x: -15, y: -1}
+        - {x: -13, y: -1}
+        - {x: -13, y: 0}
+        - {x: -11, y: 0}
+        - {x: -11, y: 2}
+        - {x: -12, y: 2}
+        - {x: -12, y: 1}
+        - {x: -15, y: 1}
+        - {x: -15, y: 3}
+        - {x: -14, y: 3}
+        - {x: -14, y: 4}
+        - {x: -13, y: 4}
+        - {x: -13, y: 5}
+        - {x: -12, y: 5}
+        - {x: -12, y: 6}
+        - {x: -10, y: 6}
+        - {x: -10, y: 7}
+        - {x: -8, y: 7}
+        - {x: -8, y: 8}
+        - {x: -9, y: 8}
+        - {x: -9, y: 10}
+        - {x: -8, y: 10}
+        - {x: -8, y: 11}
+        - {x: -7, y: 11}
+        - {x: -7, y: 12}
+        - {x: -6, y: 12}
+        - {x: -6, y: 14}
+        - {x: -5, y: 14}
+        - {x: -5, y: 15}
+        - {x: -4, y: 15}
+        - {x: -4, y: 16}
+        - {x: 4, y: 16}
+        - {x: 4, y: 15}
+        - {x: 5, y: 15}
+        - {x: 5, y: 14}
+        - {x: 6, y: 14}
+        - {x: 6, y: 12}
+        - {x: 7, y: 12}
+        - {x: 7, y: 11}
+        - {x: 8, y: 11}
+        - {x: 8, y: 10}
+        - {x: 9, y: 10}
+        - {x: 9, y: 8}
+        - {x: 6, y: 8}
+        - {x: 6, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: 6}
+        - {x: 8, y: 6}
+        - {x: 8, y: 5}
+        - {x: 12, y: 5}
+        - {x: 12, y: 3}
+        - {x: 13, y: 3}
+        - {x: 13, y: 1}
+        - {x: 11, y: 1}
+        - {x: 11, y: 2}
+        - {x: 8, y: 2}
+        - {x: 8, y: 3}
+        - {x: 7, y: 3}
+        - {x: 7, y: 2}
+        - {x: 8, y: 2}
+        - {x: 8, y: 1}
+        - {x: 10, y: 1}
+        - {x: 10, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: -1}
+        - {x: 14, y: -1}
+        - {x: 14, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: -4}
+        - {x: 11, y: -4}
+        - {x: 11, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: -5}
+        - {x: 13, y: -5}
+        - {x: 13, y: -6}
+        - {x: 14, y: -6}
+        - {x: 14, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: -10}
+        - {x: 14, y: -10}
+        - {x: 14, y: -9}
+        - {x: 12, y: -9}
+        - {x: 11, y: -9}
+        - {x: 11, y: -8}
+        - {x: 9, y: -8}
+        - {x: 9, y: -9}
+        - {x: 11, y: -9}
+        - {x: 12, y: -9}
+        - {x: 12, y: -10}
+        - {x: 13, y: -10}
+        - {x: 13, y: -11}
+        - {x: 14, y: -11}
+        - {x: 14, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c60b9027f35534c9427b7bf12c116b
+      internalID: -1719895575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Platfromslv3_0: 1422745689
+      Platfromslv3_1: 19967719
+      Platfromslv3_10: -989935747
+      Platfromslv3_11: 1244353486
+      Platfromslv3_12: 1862831592
+      Platfromslv3_13: 986674137
+      Platfromslv3_14: -1131921928
+      Platfromslv3_15: -188194632
+      Platfromslv3_16: 1360477401
+      Platfromslv3_17: -1613047513
+      Platfromslv3_18: 63499883
+      Platfromslv3_19: -1855188275
+      Platfromslv3_2: -1193614656
+      Platfromslv3_20: -2003550256
+      Platfromslv3_21: -433292929
+      Platfromslv3_22: -1099091861
+      Platfromslv3_23: -1922593871
+      Platfromslv3_24: 1686655119
+      Platfromslv3_25: 151949186
+      Platfromslv3_26: -856843890
+      Platfromslv3_27: -479676203
+      Platfromslv3_28: -367831172
+      Platfromslv3_29: -1431249938
+      Platfromslv3_3: 753614329
+      Platfromslv3_30: -87134114
+      Platfromslv3_31: -1333080836
+      Platfromslv3_32: 944504954
+      Platfromslv3_33: -1200641756
+      Platfromslv3_34: -1765152103
+      Platfromslv3_35: 2037676405
+      Platfromslv3_36: -215596993
+      Platfromslv3_37: 1604739453
+      Platfromslv3_38: -1201525241
+      Platfromslv3_39: 1659749523
+      Platfromslv3_4: -1859358143
+      Platfromslv3_40: 1446956351
+      Platfromslv3_41: -1719895575
+      Platfromslv3_5: 1059340709
+      Platfromslv3_6: 806657509
+      Platfromslv3_7: 1249567673
+      Platfromslv3_8: 126110988
+      Platfromslv3_9: -1343294902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
