@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: b2a3d8076ce48d3478c77c90a64f8397
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platfromslv4 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -1}
+        - {x: 12, y: -1}
+        - {x: 12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 4}
+        - {x: -15, y: 4}
+        - {x: -15, y: -1}
+        - {x: -14, y: -1}
+        - {x: -14, y: -2}
+        - {x: -12, y: -2}
+        - {x: -12, y: -4}
+        - {x: -11, y: -4}
+        - {x: -11, y: -5}
+        - {x: -10, y: -5}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -3}
+        - {x: -6, y: -3}
+        - {x: -6, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -5}
+        - {x: -2, y: -5}
+        - {x: -2, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -5}
+        - {x: 1, y: -5}
+        - {x: 1, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -4}
+        - {x: 11, y: -4}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 774c6f777f451034286edd08576975cc
+      internalID: 1339781891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv4 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: -9}
+        - {x: 6, y: -9}
+        - {x: 6, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: -1}
+        - {x: 11, y: -1}
+        - {x: 11, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 4}
+        - {x: -15, y: 4}
+        - {x: -15, y: -1}
+        - {x: -14, y: -1}
+        - {x: -14, y: -2}
+        - {x: -13, y: -2}
+        - {x: -13, y: -3}
+        - {x: -12, y: -3}
+        - {x: -12, y: -4}
+        - {x: -11, y: -4}
+        - {x: -11, y: -5}
+        - {x: -10, y: -5}
+        - {x: -10, y: -10}
+        - {x: -9, y: -10}
+        - {x: -9, y: -14}
+        - {x: -8, y: -14}
+        - {x: -8, y: -11}
+        - {x: -7, y: -11}
+        - {x: -7, y: -10}
+        - {x: -6, y: -10}
+        - {x: -6, y: -8}
+        - {x: -5, y: -8}
+        - {x: -5, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: -4}
+        - {x: -2, y: -4}
+        - {x: -2, y: -3}
+        - {x: -1, y: -3}
+        - {x: -1, y: -2}
+        - {x: 0, y: -2}
+        - {x: 0, y: -1}
+        - {x: 3, y: -1}
+        - {x: 3, y: -3}
+        - {x: 4, y: -3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3c6c6af8ca5cada41b151d13d9aa81eb
+      internalID: 1270928379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv4 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 5}
+        - {x: 11, y: 6}
+        - {x: 12, y: 6}
+        - {x: 12, y: 7}
+        - {x: 13, y: 7}
+        - {x: 13, y: 8}
+        - {x: 14, y: 8}
+        - {x: 14, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: 12}
+        - {x: 16, y: 12}
+        - {x: 16, y: 13}
+        - {x: -16, y: 13}
+        - {x: -16, y: 9}
+        - {x: -15, y: 9}
+        - {x: -15, y: 6}
+        - {x: -14, y: 6}
+        - {x: -14, y: 4}
+        - {x: -13, y: 4}
+        - {x: -13, y: 6}
+        - {x: -12, y: 6}
+        - {x: -12, y: 7}
+        - {x: -11, y: 7}
+        - {x: -11, y: 5}
+        - {x: -10, y: 5}
+        - {x: -10, y: -1}
+        - {x: -9, y: -1}
+        - {x: -9, y: -10}
+        - {x: -8, y: -10}
+        - {x: -8, y: -13}
+        - {x: -7, y: -13}
+        - {x: -7, y: -15}
+        - {x: -6, y: -15}
+        - {x: -6, y: -14}
+        - {x: -5, y: -14}
+        - {x: -5, y: -10}
+        - {x: -4, y: -10}
+        - {x: -4, y: -8}
+        - {x: -3, y: -8}
+        - {x: -3, y: -7}
+        - {x: -2, y: -7}
+        - {x: -2, y: -8}
+        - {x: -1, y: -8}
+        - {x: -1, y: -10}
+        - {x: 0, y: -10}
+        - {x: 0, y: -11}
+        - {x: 1, y: -11}
+        - {x: 1, y: -9}
+        - {x: 2, y: -9}
+        - {x: 2, y: -7}
+        - {x: 3, y: -7}
+        - {x: 3, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: 7}
+        - {x: 6, y: 7}
+        - {x: 6, y: 8}
+        - {x: 7, y: 8}
+        - {x: 7, y: 7}
+        - {x: 8, y: 7}
+        - {x: 8, y: 5}
+        - {x: 9, y: 5}
+        - {x: 9, y: 4}
+        - {x: 10, y: 4}
+        - {x: 10, y: 5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7b3e6ca8c94a8a34584ed303b3b770cd
+      internalID: -127344211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv4 1_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 1}
+        - {x: 5, y: 3}
+        - {x: 6, y: 3}
+        - {x: 6, y: 4}
+        - {x: 7, y: 4}
+        - {x: 7, y: 5}
+        - {x: 6, y: 5}
+        - {x: 6, y: 6}
+        - {x: -12, y: 6}
+        - {x: -13, y: 6}
+        - {x: -13, y: 4}
+        - {x: -12, y: 4}
+        - {x: -12, y: 0}
+        - {x: -11, y: 0}
+        - {x: -11, y: -2}
+        - {x: -10, y: -2}
+        - {x: -10, y: -1}
+        - {x: -9, y: -1}
+        - {x: -9, y: 1}
+        - {x: -8, y: 1}
+        - {x: -8, y: 0}
+        - {x: -7, y: 0}
+        - {x: -7, y: -1}
+        - {x: -6, y: -1}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -7}
+        - {x: -4, y: -7}
+        - {x: -4, y: -8}
+        - {x: -3, y: -8}
+        - {x: -3, y: -13}
+        - {x: -2, y: -13}
+        - {x: -2, y: -15}
+        - {x: -1, y: -15}
+        - {x: -1, y: -16}
+        - {x: 0, y: -16}
+        - {x: 0, y: -15}
+        - {x: 1, y: -15}
+        - {x: 1, y: -14}
+        - {x: 2, y: -14}
+        - {x: 2, y: -11}
+        - {x: 1, y: -11}
+        - {x: 1, y: -9}
+        - {x: 2, y: -9}
+        - {x: 2, y: -5}
+        - {x: 3, y: -5}
+        - {x: 3, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 1}
+      tessellationDetail: 1
+      bones: []
+      spriteID: cb9d21e6fec5aef4e9f61a8454e86cce
+      internalID: -1251598720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv4 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 4}
+        - {x: 12, y: 3}
+        - {x: 13, y: 3}
+        - {x: 13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: 5}
+        - {x: 16, y: 5}
+        - {x: 16, y: 7}
+        - {x: -16, y: 7}
+        - {x: -16, y: 5}
+        - {x: -14, y: 5}
+        - {x: -14, y: 4}
+        - {x: -13, y: 4}
+        - {x: -13, y: 3}
+        - {x: -11, y: 3}
+        - {x: -11, y: 2}
+        - {x: -10, y: 2}
+        - {x: -10, y: -1}
+        - {x: -9, y: -1}
+        - {x: -9, y: -2}
+        - {x: -8, y: -2}
+        - {x: -8, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -9}
+        - {x: -5, y: -9}
+        - {x: -5, y: -11}
+        - {x: -3, y: -11}
+        - {x: -3, y: -12}
+        - {x: -2, y: -12}
+        - {x: -2, y: -14}
+        - {x: -1, y: -14}
+        - {x: -1, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: -14}
+        - {x: 2, y: -14}
+        - {x: 2, y: -12}
+        - {x: 3, y: -12}
+        - {x: 3, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: -1}
+        - {x: 9, y: -1}
+        - {x: 9, y: 2}
+        - {x: 10, y: 2}
+        - {x: 10, y: 3}
+        - {x: 11, y: 3}
+        - {x: 11, y: 4}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5c986c6248fe44e47b180afb773699c1
+      internalID: -1642550135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platfromslv4 1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 3}
+        - {x: 6, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: 1}
+        - {x: 8, y: 1}
+        - {x: 8, y: 0}
+        - {x: 9, y: -1}
+        - {x: 10, y: -1}
+        - {x: 10, y: 1}
+        - {x: 11, y: 1}
+        - {x: 11, y: 7}
+        - {x: -13, y: 7}
+        - {x: -13, y: 6}
+        - {x: -14, y: 6}
+        - {x: -14, y: 4}
+        - {x: -13, y: 3}
+        - {x: -13, y: 1}
+        - {x: -12, y: 1}
+        - {x: -12, y: -2}
+        - {x: -11, y: -2}
+        - {x: -11, y: 0}
+        - {x: -10, y: 0}
+        - {x: -10, y: 2}
+        - {x: -5, y: 2}
+        - {x: -5, y: 0}
+        - {x: -5, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: -4}
+        - {x: -3, y: -4}
+        - {x: -3, y: -8}
+        - {x: -2, y: -8}
+        - {x: -2, y: -13}
+        - {x: -1, y: -13}
+        - {x: -1, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: -5}
+        - {x: 2, y: -5}
+        - {x: 2, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: 3}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 927e8103bc09d4a4bb99ef6e707c6eb7
+      internalID: -2114886434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Platfromslv4 1_0: 1339781891
+      Platfromslv4 1_1: 1270928379
+      Platfromslv4 1_2: -127344211
+      Platfromslv4 1_3: -1251598720
+      Platfromslv4 1_4: -1642550135
+      Platfromslv4 1_5: -2114886434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
