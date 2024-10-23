@@ -42,5 +42,11 @@ public class FallDamage : MonoBehaviour
                 dead = false;
             }
         }
+        if (collision.gameObject.layer == 8)
+        {
+            player.transform.position = respawnPoint.transform.position;
+            dead = false;
+        }
+
     }
 }
