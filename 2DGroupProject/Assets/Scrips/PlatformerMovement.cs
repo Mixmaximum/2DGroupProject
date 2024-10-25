@@ -18,7 +18,7 @@ public class PlatformerMovement : MonoBehaviour
     float startGrav;
     Rigidbody2D rb;
     [SerializeField]
-    float maxJumpHeight;
+    float jumpGravity;
     // Start is called before the first frame update
     void Start()
     { //Reference the rigidbody and learn the starting gravity
@@ -45,7 +45,7 @@ public class PlatformerMovement : MonoBehaviour
         //need to find a way to know if we are on the ground
         if (Input.GetButtonDown("Jump") && canJump)
         {
-            rb.gravityScale = maxJumpHeight;
+            rb.gravityScale = jumpGravity;
             rb.AddForce(new Vector2(0, 100 * jumpSpeed));
             grounded = false;
             canJump = false;
