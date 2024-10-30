@@ -13,6 +13,8 @@ public class EnemyAI : MonoBehaviour
     [SerializeField]
     bool returnHome = true;
     Vector3 home;
+    [SerializeField]
+    string teleportLocation = "Lvl1 1";
     // Start is called before the first frame update
     void Start()
     {
@@ -52,7 +54,7 @@ public class EnemyAI : MonoBehaviour
     {
         if (collision.gameObject.tag == ("Player"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene(teleportLocation);
         }
     }
 }
