@@ -57911,7 +57911,7 @@ MonoBehaviour:
   chaseSpeed: 3.6
   chaseTriggerDistance: 5000
   returnHome: 1
-  teleportLocation: Lvl1 1
+  teleportLocation: Lvl1 2
 --- !u!70 &810864386
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

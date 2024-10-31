@@ -4934,7 +4934,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
@@ -5290,7 +5290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   respawnPoint: {fileID: 0}
-  fatalVelocity: -20
+  fatalVelocity: -30
 --- !u!114 &4601854054002800565
 MonoBehaviour:
   m_ObjectHideFlags: 0
