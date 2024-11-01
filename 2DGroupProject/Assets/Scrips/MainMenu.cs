@@ -7,6 +7,8 @@ public class MainMenu : MonoBehaviour
 {
     [SerializeField]
     string teleportLocation = "SampleScene";
+    [SerializeField]
+    string teleport2 = "Win";
     // Start is called before the first frame update
     void Start()
     {
@@ -27,5 +29,9 @@ public class MainMenu : MonoBehaviour
     {
         Application.Quit();
     }
-
+    public void LevelLoad()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(teleport2);
+    }
 }
