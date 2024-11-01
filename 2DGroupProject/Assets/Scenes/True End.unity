@@ -656,7 +656,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You Made it... Be free
+  m_text: You Made it... Freedom
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9e7f2300551617248a718d85a7cdbcfe, type: 2}
   m_sharedMaterial: {fileID: 6448050274459279839, guid: 9e7f2300551617248a718d85a7cdbcfe, type: 2}
