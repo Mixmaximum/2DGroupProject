@@ -19,11 +19,13 @@ public class PlatformerMovement : MonoBehaviour
     Rigidbody2D rb;
     [SerializeField]
     float jumpGravity;
+    Animator anim;
     // Start is called before the first frame update
     void Start()
     { //Reference the rigidbody and learn the starting gravity
         rb = GetComponent<Rigidbody2D>();
         startGrav = rb.GetComponent<Rigidbody2D>().gravityScale;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -53,6 +55,19 @@ public class PlatformerMovement : MonoBehaviour
         if(Input.GetButtonUp ("Jump"))
         {
             rb.gravityScale = startGrav;
+        }
+        //Set animations
+        anim.SetFloat("y", velocity.y);
+        anim.SetBool("grounded", grounded);
+        int x = (int)Input.GetAxisRaw("Horizontal");
+        anim.SetInteger("x", x);
+        if (x > 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = false;
+        }
+        else if (x < 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = true;
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
