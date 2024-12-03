@@ -593,7 +593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebdf10b795543c04c8d597339928fc93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportLocation: HunterTest
+  teleportLocation: Lvl1 1
 --- !u!1 &4025597325361466600
 GameObject:
   m_ObjectHideFlags: 0

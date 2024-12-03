@@ -5,40 +5,49 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/Lvl4.unity
-    guid: 17e3db6ba8b43024cb7cb5708ab6d91a
-  - enabled: 1
-    path: Assets/Scenes/Lvl1.unity
-    guid: 5a175004dda806849b029254837251f5
-  - enabled: 1
-    path: Assets/Scenes/Lvl2.unity
-    guid: 379b65028f81d094e866d5b9c81b078f
-  - enabled: 1
-    path: Assets/Scenes/Lvl3.unity
-    guid: 7b64f0a182d6a5242ab6775184ce2651
-  - enabled: 1
-    path: Assets/Scenes/Lvl2 1.unity
-    guid: 473e6b260176c6247b0be17bafc70ef0
-  - enabled: 1
-    path: Assets/Scenes/HunterTest.unity
-    guid: 2c0508cd280e479459a9bbcd61529786
+    path: Assets/Scenes/Main Menu.unity
+    guid: b860f8b224d331d4ab54c124bd7f6832
   - enabled: 1
     path: Assets/Scenes/Lvl1 1.unity
     guid: 472eef19c485bba4485590e698dd0fcd
   - enabled: 1
+    path: Assets/Scenes/Lvl2 1.unity
+    guid: 473e6b260176c6247b0be17bafc70ef0
+  - enabled: 1
     path: Assets/Scenes/Lvl3 1.unity
     guid: 6e0229b53c5516d45ae83eafb1acbb99
   - enabled: 1
-    path: Assets/Scenes/True End.unity
-    guid: a274eae4a9196414e8b0cf99e09f7b5f
+    path: Assets/Scenes/Lvl4.unity
+    guid: 17e3db6ba8b43024cb7cb5708ab6d91a
+  - enabled: 1
+    path: Assets/Scenes/Lvl5.unity
+    guid: 496a5ff222709e64b98a9badd17684f5
   - enabled: 1
     path: Assets/Scenes/Lvl1 2.unity
     guid: c13ade8241ab58844a03a58af033cf1c
   - enabled: 1
+    path: Assets/Scenes/HunterTest.unity
+    guid: 2c0508cd280e479459a9bbcd61529786
+  - enabled: 1
+    path: Assets/Scenes/Normal End.unity
+    guid: 1435eb3c353b9774d9c53675a84b886c
+  - enabled: 1
+    path: Assets/Scenes/True End.unity
+    guid: a274eae4a9196414e8b0cf99e09f7b5f
+  - enabled: 1
     path: Assets/Scenes/Bad End.unity
     guid: ec903c57bc8a5cb41b7f75fd5121c1ab
+  - enabled: 0
+    path: Assets/Scenes/Lvl1.unity
+    guid: 5a175004dda806849b029254837251f5
+  - enabled: 0
+    path: Assets/Scenes/Lvl2.unity
+    guid: 379b65028f81d094e866d5b9c81b078f
+  - enabled: 0
+    path: Assets/Scenes/Lvl3.unity
+    guid: 7b64f0a182d6a5242ab6775184ce2651
   m_configObjects: {}

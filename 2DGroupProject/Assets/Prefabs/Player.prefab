@@ -4967,7 +4967,7 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!1 &6225461044293582797
+--- !u!1 &3703801323206236068
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4975,8 +4975,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 6862821237940134047}
-  - component: {fileID: 6974412434204984363}
+  - component: {fileID: 9015651002190864951}
+  - component: {fileID: 5460610072386235462}
   m_Layer: 0
   m_Name: Light 2D (1)
   m_TagString: Untagged
@@ -4984,29 +4984,29 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &6862821237940134047
+--- !u!4 &9015651002190864951
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6225461044293582797}
+  m_GameObject: {fileID: 3703801323206236068}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 0.0054683727, w: 0.99998504}
+  m_LocalPosition: {x: 0.02, y: 0.1, z: 0}
+  m_LocalScale: {x: 0.8969415, y: 0.8969415, z: 0.8969415}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8480048418654015805}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6974412434204984363
+--- !u!114 &5460610072386235462
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6225461044293582797}
-  m_Enabled: 0
+  m_GameObject: {fileID: 3703801323206236068}
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
   m_Name: 
@@ -5028,7 +5028,7 @@ MonoBehaviour:
   m_NormalMapDistance: 3
   m_NormalMapQuality: 2
   m_UseNormalMap: 0
-  m_ShadowIntensityEnabled: 1
+  m_ShadowIntensityEnabled: 0
   m_ShadowIntensity: 0.75
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
@@ -5037,8 +5037,8 @@ MonoBehaviour:
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
-  m_PointLightInnerRadius: 0.85402715
-  m_PointLightOuterRadius: 2.186548
+  m_PointLightInnerRadius: 1.2586458
+  m_PointLightOuterRadius: 3.5450232
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
@@ -5088,7 +5088,7 @@ Transform:
   m_Children:
   - {fileID: 677688980343201155}
   - {fileID: 7923370443788312682}
-  - {fileID: 6862821237940134047}
+  - {fileID: 9015651002190864951}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5904266065045739725
@@ -5202,7 +5202,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.049972534, y: -0.04511261}
+  m_Offset: {x: 0.049972534, y: -0.2587307}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -5213,7 +5213,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.7897644, y: 1.9170609}
+  m_Size: {x: 0.7897644, y: 1.4898247}
   m_EdgeRadius: 0
 --- !u!114 &6231952064208772054
 MonoBehaviour:
@@ -5232,7 +5232,7 @@ MonoBehaviour:
   grounded: 0
   coyoteTime: 0.1
   moveX: 0
-  jumpGravity: 1
+  jumpGravity: 0.7
 --- !u!61 &3448197678678837267
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5265,7 +5265,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.05650711, y: -0.667125}
+  m_Offset: {x: 0.04704216, y: -0.9281841}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -5276,7 +5276,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.77536774, y: 0.667047}
+  m_Size: {x: 0.82584745, y: 0.17332375}
   m_EdgeRadius: 0
 --- !u!114 &5514964685432424133
 MonoBehaviour:
@@ -5291,7 +5291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   respawnPoint: {fileID: 0}
-  fatalVelocity: -30
+  fatalVelocity: -15
 --- !u!114 &4601854054002800565
 MonoBehaviour:
   m_ObjectHideFlags: 0
